@@ -1,3 +1,3 @@
-# Nothing here yet
-# code to be developed
+#!/usr/bin/python
+print "Hello, World!"
 
